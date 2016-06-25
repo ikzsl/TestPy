@@ -1,2 +1,2 @@
 print("buybu")
-Print("helloworld")
+Print("hellnmbnmoworld")
