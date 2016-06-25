@@ -1,2 +1,6 @@
 print("buybu")
-print("helloworld")
+print("hellnmbnmoworld")
+print("dddddddddddddddddddd")
+print("buybu")
+print("hellnmbnmoworld")
+print("dddddddddddddddddddd"
