@@ -9,7 +9,15 @@ while True:
         current = koloda.pop()
         print("карта %d" %current)
         count += current
-
-
-        
-        print(count)
+        if count > 21:
+            print("вы проиграли")
+            break
+        elif count == 21:
+            print("вы набрали 21 !!!!")
+            break
+        else:
+            print("У вас %d очков" %count)
+    elif choice == "n":
+        print("у вас %d очков и вы закончили игру" %count)
+        break
+print("досвидос")
